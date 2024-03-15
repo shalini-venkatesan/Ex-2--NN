@@ -140,12 +140,11 @@ plt.show()
 
 # OUTPUT:
 
-![image](https://github.com/JoyceBeulah/Ex-2--NN/assets/118343698/028c6ca9-8874-4047-b033-a7e4b929c882)
+![image](https://github.com/shalini-venkatesan/Ex-2--NN/assets/118720291/72acd63b-5de4-4e0c-a773-bbce00c67c20)
 
 ![image](https://github.com/JoyceBeulah/Ex-2--NN/assets/118343698/69b48320-fa06-4028-ae59-d1e222501ad7)
 
-![image](https://github.com/JoyceBeulah/Ex-2--NN/assets/118343698/6c8cf2c9-c560-416f-8a0d-2d742fefe686)
-
+![image](https://github.com/shalini-venkatesan/Ex-2--NN/assets/118720291/6dec7cc6-5198-4dfe-a44b-a455ee6fa4d8)
 
 
 # RESULT:
